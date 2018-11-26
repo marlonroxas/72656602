@@ -1,0 +1,8 @@
+apps:
+  - script      : 'app.js'
+    name        : 'sitelab'
+    exec_mode   : 'cluster'
+    instances   : 'max'
+    watch       : true
+    ignore_watch: ['./tmp', './client']
+

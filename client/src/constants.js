@@ -1,0 +1,25 @@
+// Promise Statuses
+export const NO_ACTION = 'NO_ACTION'
+export const PENDING = 'PENDING'
+export const FULFILLED = 'FULFILLED'
+export const REJECTED = 'REJECTED'
+
+// Module Constants
+export const GET_POSTS = 'GET_POSTS'
+export const POST_LOGIN = 'POST_LOGIN'
+export const GET_SITES = 'GET_SITES'
+export const GET_SITE = 'GET_SITE'
+export const POST_SITE = 'POST_SITE'
+export const PUT_SITE = 'PUT_SITE'
+export const DELETE_SITE = 'DELETE_SITE'
+
+export const GET_COMPANIES = 'GET_COMPANIES'
+export const GET_COMPANY = 'GET_COMPANY'
+export const POST_COMPANY = 'POST_COMPANY'
+export const PUT_COMPANY = 'PUT_COMPANY'
+export const DELETE_COMPANY = 'DELETE_COMPANY'
+export const GET_MANAGERS = 'GET_MANAGERS'
+export const GET_MANAGER = 'GET_MANAGER'
+export const POST_MANAGER = 'POST_MANAGER'
+export const PUT_MANAGER = 'PUT_MANAGER'
+export const DELETE_MANAGER = 'DELETE_MANAGER'

@@ -1,0 +1,9 @@
+node_modules/*
+generator/*
+public/*
+src/registerServiceWorker.js
+src/components/hoc/router.js
+*.test.js
+./**/*.test.js
+scripts/*
+config/*
